@@ -1,6 +1,6 @@
 # Git Practice Project
 
-**Name:** Jahid Ibna 
+**Name:** Jahid Ibna Sinha
 **GitHub:** jahid15
 
 ## About This Project
